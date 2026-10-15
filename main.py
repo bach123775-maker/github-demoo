@@ -1,0 +1,1 @@
+print("Hello! Đã chạy thành công chương trình trên VS Code.")
